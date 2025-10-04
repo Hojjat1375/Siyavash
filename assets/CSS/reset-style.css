@@ -1,0 +1,24 @@
+/** @format */
+
+@font-face {
+  font-family: Iran-sans;
+  src: url(../Fonts/IRANSansX-Regular.woff);
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Iran-sans;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ul,
+ol,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
